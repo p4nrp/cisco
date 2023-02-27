@@ -33,6 +33,9 @@ switchport mode access
 switchport access vlan 20
 ```
 
+
+https://computernetworking747640215.wordpress.com/2018/07/05/vlan-configuration-on-a-cisco-switch-in-packet-tracer/
+
 SWITCH CONFIG
 RANGE FOR MULTIPLE FASTETHERNET
 
