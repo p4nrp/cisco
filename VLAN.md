@@ -138,10 +138,13 @@ Router(config-if)#no shutdown
 Router(config-if)#int fa0/0.10
 Router(config-subif)#encapsulation dot1q 10
 
-https://computernetworking747640215.wordpress.com/2018/07/05/vlan-configuration-on-a-cisco-switch-in-packet-tracer/
+
 Router(config-subif)#ip add 192.168.1.1 255.255.255.0
 Router(config-subif)#
 
 Router(config-subif)#int fa0/0.20
 Router(config-subif)#encapsulation dot1q 20
 Router(config-subif)#ip add 192.168.2.1 255.255.255.0
+
+
+https://computernetworking747640215.wordpress.com/2018/07/05/vlan-configuration-on-a-cisco-switch-in-packet-tracer/
