@@ -19,7 +19,7 @@ ROUTER GROUP 3
 
 -[GAMBAR TOPOLOGY](https://ibb.co/c1Dq7b1)
 
-<a href="https://ibb.co/c1Dq7b1"><img src="https://i.ibb.co/c1Dq7b1/Screenshot-20230228-053707.png" alt="Screenshot-20230228-053707" border="0" /></a>
+<a href="https://ibb.co/c1Dq7b1"><img src="https://i.ibb.co/rm491bm/Screenshot-20230228-053707.png" alt="Screenshot-20230228-053707" border="0" /></a>
 
 
 ADD IP ROUTER GROUP 1
