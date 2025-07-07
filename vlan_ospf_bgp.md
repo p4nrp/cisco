@@ -21,6 +21,9 @@
 ### 2. Configuration
 
 config switch1 VLAN 10,20,30 (add new VLAN)
+<p align="center">
+  <img height="auto" width="auto" src="https://i.imgur.com/yQfFa9H.jpeg">
+</p>
 ```
 en
 conf t
