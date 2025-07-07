@@ -94,7 +94,7 @@ no sh
 ip address 10.10.10.1 255.255.255.252
 ex
 ```
-config switch1 VLAN 10,20,30 (add new VLAN)
+config switch2 VLAN 40,50,60 (add new VLAN)
 ```
 en
 conf t
