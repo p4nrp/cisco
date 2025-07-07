@@ -8,8 +8,7 @@
 
 * [Set a Topology](https://github.com/p4nrp/cisco/blob/main/vlan_ospf_bgp.md#1-set-a-topology)
 * [Configuration](https://github.com/p4nrp/cisco/blob/main/vlan_ospf_bgp.md#2-configuration)
-* [Start Your Validator](https://github.com/p4nrp/testnet/blob/main/elixirfinance.md#3-start-your-validator)
-* [Usefull Command](https://github.com/p4nrp/testnet/blob/main/elixirfinance.md#usefull-commands)
+
 
 
 ### 1. Set a Topology
