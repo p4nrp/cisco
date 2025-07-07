@@ -227,3 +227,9 @@ ex
 router bgp 200
 redistribute ospf 1
 ```
+### 3. Check
+```
+en
+conf t
+do sh ip route
+```
