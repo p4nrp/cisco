@@ -6,7 +6,7 @@
 </p>
 
 
-* [Set a Topology](https://github.com/p4nrp/cisco/edit/main/vlan_ospf_bgp.md#1-Set-a-Topology-1)
+* [Set a Topology](https://github.com/p4nrp/cisco/edit/main/vlan_ospf_bgp.md#1-Set-a-Topology)
 * [Setting DockerFile](https://github.com/p4nrp/testnet/blob/main/elixirfinance.md#2-setting-dockerfile)
 * [Start Your Validator](https://github.com/p4nrp/testnet/blob/main/elixirfinance.md#3-start-your-validator)
 * [Usefull Command](https://github.com/p4nrp/testnet/blob/main/elixirfinance.md#usefull-commands)
