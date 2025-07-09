@@ -1,9 +1,6 @@
 # Configuration Vlan_Ospf_Bgp
 
 
-<p align="center">
-  <img height="auto" width="auto" src="https://i.imgur.com/N9KAUN8.png">
-</p>
 
 
 * [Set a Topology](https://github.com/p4nrp/cisco/blob/main/vlan_ospf_bgp.md#1-set-a-topology)
